@@ -13,30 +13,30 @@ function Chris() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Chris[tian] Mazur{"      "}
+          Chris Mazur{"      "}
           <span role="img" aria-label="mate">
           
         </span>          
         </h1>
         
         <p className={styles.description}>
-        IT Consultant - Software Developer - Passionate about Tech Communities and collaborative learning.{" "}🇦🇷 🇳🇿 🧉♟
+        IT Consultant - Software Developer - Passionate about Tech Communities and collaborative learning.{" "}🇦🇷 🇳🇿 🧉 ♜
         </p>
 
         <div className={styles.grid}>
           <a href="https://twitter.com/chmazur" className={styles.cardSocial}>
             <h2>Twitter &rarr;</h2>
-            <p>@chmazur</p>
+            <p><img src="/svgs/twitter.svg" alt="@chmazur" className={styles.logo} />{" "}@chmazur</p>
           </a>
 
-          <a href="https://www.linkedin.com/in/cloud-native" className={styles.cardSocial}>
+          <a href="https://www.linkedin.com/in/cloud-native" className={styles.cardSocial}>          
             <h2>LinkedIn &rarr;</h2>
-            <p>cloud-native</p>
+            <p><img src="/svgs/linkedin.svg" alt="cloud-native" className={styles.logo} />{" "}cloud-native</p>
           </a>
 
           <a href="https://github.com/chaltenio" className={styles.cardSocial}>
             <h2>Github &rarr;</h2>
-            <p>chaltenio</p>
+            <p><img src="/svgs/github.svg" alt="chaltenio" className={styles.logo} />{" "}chaltenio</p>
           </a>
         </div>
 
@@ -64,20 +64,19 @@ function Chris() {
 
           <div>
             <p>
-              - Argentina PHP User Group Co-Founder <br />
-              - Co-Founder & Co-Organizer PHP Conference Argentina (Buenos Aires - @phpconferencear)<br />
-              - Founder & Organizer PHP Conference New Zealand (Wellington - php.org.nz)<br />
-              - Founder & Organizer ScaleConf New Zealand (Wellington - @sconfnz)<br />
-              - Founder & Organizer Cloud Native Summit (Wellington - {" "}<a href="https://cloudnativesummit.co/nz" target="_blank">
-              cloudnativesummit.co)</a><br />
-              - Founder & Organizer Service Mesh Day (San Francisco & Online - {" "}<a href="https://servicemeshday.com" target="_blank">servicemeshday.com</a>)<br />
-              - Founder & Organizer FullStack Day (Auckland & Online - {" "}<a href="https://fullstackday.com" target="_blank">fullstackday.com</a>)<br />
-              - Web Dev Meetup Wellington & Auckland<br />
-              - Devops Meetup Wellington<br />
-              - Cloud Native Meetup Auckland, <br />
-              - Connectar.DEV (online meetup)<br />
-              - Organizer Elastic NZ community<br />
-              - Layer5 contributor (Service Meshes community)<br />
+            <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />{' '}Argentina PHP User Group Co-Founder <br />
+            <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />{' '}Co-Founder & Co-Organizer PHP Conference Argentina (Buenos Aires - @phpconferencear)<br />
+            <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />{' '}Founder & Organizer PHP Conference New Zealand (Wellington - php.org.nz)<br />
+            <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />{' '}Founder & Organizer ScaleConf New Zealand (Wellington - @sconfnz)<br />
+            <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />{' '}Founder & Organizer Cloud Native Summit (Wellington - {" "}<a href="https://cloudnativesummit.co/nz" target="_blank">cloudnativesummit.co)</a><br />
+            <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />{' '}Founder & Organizer Service Mesh Day (San Francisco & Online - {" "}<a href="https://servicemeshday.com" target="_blank">servicemeshday.com</a>)<br />
+            <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />{' '}Founder & Organizer FullStack Day (Auckland & Online - {" "}<a href="https://fullstackday.com" target="_blank">fullstackday.com</a>)<br />
+            <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />{' '}Web Dev Meetup Wellington & Auckland<br />
+            <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />{' '}Devops Meetup Wellington<br />
+            <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />{' '}Cloud Native Meetup Auckland, <br />
+            <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />{' '}Connectar.DEV (online meetup)<br />
+            <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />{' '}Organizer Elastic NZ community<br />
+            <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />{' '}Layer5 contributor (Service Meshes community)<br />
             </p>  
           </div>
 
