@@ -20,7 +20,7 @@ function Chris() {
         </h1>
         
         <p className={styles.description}>
-        IT Consultant - Software Developer - Strong believer in the power of collaboration between communities, organizations and teams.{" "}🇦🇷 🇳🇿 🧉 ♜
+        IT Consultant - Software Developer - Passionate about Tech Communities and collaborative learning.{" "}🇦🇷 🇳🇿 🧉 ♜
         </p>
 
         <div className={styles.grid}>
