@@ -87,11 +87,11 @@ function Chris() {
 
       <footer className={styles.footer}>
         <a
-          href="https://mate.dev/chris"
+          href="https://twitter.com/matedotdev"
           target="_blank"
           rel="noopener noreferrer"
         >
-          2021 - Contact
+          @matedotdev
         </a>
       </footer>
     </div>

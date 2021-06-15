@@ -27,13 +27,21 @@ export default function Home() {
         
       </main>
 
-      <footer className={styles.footer}>
+      <footer className={styles.footer}>      
+        <a
+          href="https://twitter.com/matedotdev"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          @matedotdev
+        </a>
+        {' '} - {' '}
         <a
           href="https://mate.dev/chris"
           target="_blank"
           rel="noopener noreferrer"
         >
-          2021 - Contact
+         Contact
         </a>
       </footer>
     </div>
