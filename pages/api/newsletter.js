@@ -50,7 +50,10 @@ export default async (req, res) => {
     return res.status(201).json({ error: null });
   } catch (error) {
     return res.status(400).json({
-      error: `Something went wrong... Please contact me by email at chris@chalten.io and I'll add you to the list.`,
+      error: `Something went wrong or you are already in one of our mailing lists... Please contact me by email at chris@chalten.io.`,
     });
   }
 };
+
+// Attributions:
+// https://github.com/uriklar/uriklar-next/blob/master/components/newsletter.jsx

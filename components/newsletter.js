@@ -50,3 +50,7 @@ export default () => {
     </div>
   );
 };
+
+
+// Attributions:
+// https://github.com/uriklar/uriklar-next/blob/master/components/newsletter.jsx
