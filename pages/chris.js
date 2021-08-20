@@ -20,7 +20,7 @@ function Chris() {
         </h1>
         
         <p className={styles.description}>
-        IT Consultant - Software Developer - Passionate about Tech Communities and collaborative learning.{" "}🇦🇷 🇳🇿 🧉 ♜
+        IT Consultant & Software Developer - Connecting the DEV Community in APAC + LATAM | From #Patagonia.{" "}🇦🇷 🇳🇿 🧉 ♜
         </p>
 
         <div className={styles.grid}>
@@ -42,12 +42,12 @@ function Chris() {
 
         <div className={styles.grid}>  
 
-        <a href="#" className={styles.cardSocial}>
+          <a href="#" className={styles.cardSocial}>
             <h2>Blog?</h2>
             <p>Coming soon!</p>
           </a>
 
-         <a href="https://discord.gg/xT9cMSy" className={styles.cardSocial}>
+          <a href="https://discord.gg/xT9cMSy" className={styles.cardSocial}>
             <h2>Discord &rarr;</h2>
             <p>Join me!</p>
           </a>
@@ -60,7 +60,7 @@ function Chris() {
 
         <div className={styles.grid}> 
           <div>
-          <h2>My journey with communities:{' '} </h2>
+          <h2>My journey with communities since 2010:{' '} </h2>
 
           <div>
             <p>
@@ -74,7 +74,7 @@ function Chris() {
             <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />{' '}Web Dev Meetup Wellington & Auckland<br />
             <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />{' '}Devops Meetup Wellington<br />
             <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />{' '}Cloud Native Meetup Auckland, <br />
-            <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />{' '}Connectar.DEV (online meetup)<br />
+            <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />{' '}Connecta.DEV (online community)<br />
             <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />{' '}Organizer Elastic NZ community<br />
             <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />{' '}Layer5 contributor (Service Meshes community)<br />
             </p>  
