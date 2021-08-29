@@ -20,7 +20,7 @@ function Chris() {
         </h1>
         
         <p className={styles.description}>
-        IT Consultant & Software Developer - Connecting the DEV Community in APAC + LATAM | From #Patagonia.{" "}🇦🇷 🇳🇿 🧉 ♜
+        IT Consultant & Software Developer - Connecting the DEV Community in the APAC & LATAM regions | From #Patagonia.{" "}🇦🇷 🇳🇿 🧉 ♜
         </p>
 
         <div className={styles.grid}>
