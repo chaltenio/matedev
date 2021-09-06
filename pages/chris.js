@@ -64,7 +64,7 @@ function Chris() {
           
           <div>
             <p>
-            <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />{' '}Co-Founder Argentina PHP User Group  <br />
+            <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />🧉 Co-Founder Argentina PHP User Group  <br />
             <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />{' '}Co-Founder & Co-Organiser PHP Conference Argentina (Buenos Aires - <a href="https://twitter.com/phpconferencear" target="_blank">@phpconferencear</a>)<br />
             <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />{' '}Founder & Organiser PHP Conference New Zealand (Wellington - <a href="https://php.org.nz" target="_blank">php.org.nz</a>)<br />
             <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />{' '}Founder & Organiser ScaleConf New Zealand (Wellington - <a href="https://twitter.com/sconfnz" target="_blank">@sconfnz</a>)<br />
@@ -78,7 +78,6 @@ function Chris() {
             <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />{' '}Founder <a href="https://www.meetup.com/Cloud-Native-Auckland/" target="_blank">Cloud Native Meetup Auckland</a> <br />
             <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />{' '}Founder <a href="https://connecta.dev" target="_blank">Connecta.DEV (online community)</a><br />
             <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />{' '}Member <a href="https://layer5.io/community/members/chris-mazur" target="_blank">Layer5 contributor (Service Mesh community)</a><br />
-            <img src="/svgs/code.svg" alt="cloud-native" className={styles.logo} />{' '}<br />
             </p>  
           </div>
 
