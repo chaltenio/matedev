@@ -20,7 +20,7 @@ function Chris() {
         </h1>
         
         <p className={styles.description}>
-        IT Consultant & Software Developer - Connecting the DEV Community in the APAC & LATAM regions | From #Patagonia.{" "}🇦🇷 🇳🇿 🧉 ♜
+        Software Engineer + IT Consultant + Community Strategy as a Service | From #Patagonia.{" "}🇦🇷 🇳🇿 🧉 ♜
         </p>
 
         <div className={styles.grid}>
@@ -60,7 +60,7 @@ function Chris() {
 
         <div className={styles.grid}> 
           <div>
-          <h2>My journey with communities since 2010:{' '} </h2>
+          <h2>Connecting the DEV Community in the APAC & LATAM regions since 2010:{' '} </h2>
 
           <div>
             <p>
