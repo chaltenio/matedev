@@ -18,7 +18,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          <code className={styles.code}>Connecting the DEV Community | APAC + Latam</code>
+          <code className={styles.code}>Connecting the DEV Community in the APAC & LATAM regions</code>
         </p>
 
         <div className={styles.grid}>
