@@ -20,7 +20,7 @@ function Chris() {
         </h1>
         
         <p className={styles.description}>
-        Software Engineer + IT Consultant + Community Strategy as a Service | From #Patagonia.{" "}🇦🇷 🇳🇿 🧉 ♜
+        Software & DevOps Engineer + DevRel Strategy Advice as a Service | From #Patagonia.{" "}🇦🇷 🇳🇿 🧉 ♜
         </p>
 
         <div className={styles.grid}>
@@ -49,7 +49,7 @@ function Chris() {
 
           <a href="https://discord.gg/xT9cMSy" className={styles.cardSocial}>
             <h2>Discord &rarr;</h2>
-            <p>Join me!</p>
+            <p>Join connecta.dev!</p>
           </a>
 
           <a href="https://www.chess.com/member/chmazur" className={styles.cardSocial}>
@@ -60,7 +60,7 @@ function Chris() {
 
         <div className={styles.grid}> 
           <div>
-          <h2>Connecting the DEV Community in the APAC & LATAM regions since 2010:{' '} </h2>
+          <h2>Connecting the Software Development Community in the APAC & LATAM regions since 2010:{' '} </h2>
           
           <div>
             <p>
@@ -74,7 +74,7 @@ function Chris() {
             🧉{' '}Founder & Organiser <a href="https://www.meetup.com/Full-Stack-Dev-New-Zealand/" target="_blank">Full Stack Dev New Zealand - Meetup</a><br />
             🧉{' '}Founder & Organiser <a href="https://www.meetup.com/Wellington-Web-Dev/" target="_blank">Web Dev Meetup Wellington</a><br />
             🧉{' '}Organiser <a href="https://www.meetup.com/aucklandweb/" target="_blank">Web Dev Meetup Auckland</a><br />
-            🧉{' '}Founder & Organiser <a href="https://www.meetup.com/Wellington-DevOps-Group/" target="_blank">Devops Meetup Wellington</a><br />
+            🧉{' '}Founder & Co-Organiser <a href="https://www.meetup.com/Wellington-DevOps-Group/" target="_blank">Devops Meetup Wellington</a><br />
             🧉{' '}Founder & Organiser <a href="https://www.meetup.com/Cloud-Native-Auckland/" target="_blank">Cloud Native Meetup Auckland</a> <br />
             🧉{' '}Founder & Organiser <a href="https://connecta.dev" target="_blank">Connecta.DEV (online community)</a><br />
             🧉{' '}Member <a href="https://layer5.io/community/members/chris-mazur" target="_blank">Layer5 contributor (Service Mesh community)</a><br />
