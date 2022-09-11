@@ -17,6 +17,10 @@ export default function Home() {
           Welcome to mate.dev!
         </h1>
 
+        <h2>
+          Building Tech Communities since 2013. 
+        </h2>
+
         <p className={styles.description}>
           <code className={styles.code}>Connecting the DEV Community in the APAC & LATAM regions</code>
         </p>
@@ -25,6 +29,10 @@ export default function Home() {
           <Newsletter />
         </div>
         
+        <p>
+        We help Tech Companies to Build and Empower their Communities.
+        </p>
+                
       </main>
 
       <footer className={styles.footer}>      
