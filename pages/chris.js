@@ -60,7 +60,7 @@ function Chris() {
 
         <div className={styles.grid}> 
           <div>
-          <h2>Connecting the Software Development Community in the APAC & LATAM regions since 2010:{' '} </h2>
+          <h2>Connecting the Software Development Community in the APAC & LATAM regions since 2013:{' '} </h2>
           
           <div>
             <p>
