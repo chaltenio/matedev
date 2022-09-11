@@ -34,7 +34,7 @@ export default function newsletter() {
           value={email}
           onChange={(e) => setEmail(e.target.value)}
         />
-        <button type="button" className={styles.registerMailchimpButton} disabled={state === "LOADING"} onClick={subscribe}>Register your Interest</button>
+        <button type="button" className={styles.registerMailchimpButton} disabled={state === "LOADING"} onClick={subscribe}>Submit</button>
       </div>
 
       {state === "ERROR" && (
