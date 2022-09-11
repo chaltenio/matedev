@@ -41,7 +41,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          @matedotdev / Building Tech Communities since 2013. 
+          @matedotdev / Building Tech Communities since 2013 from NZ. 
         </a>
         {' '} - {' '}
         <a
