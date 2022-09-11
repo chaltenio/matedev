@@ -22,12 +22,12 @@ export default function Home() {
         </h2>
 
         <p className={styles.description}>
-          <code className={styles.code}>Connecting the DEV Community in the APAC & LATAM regions</code>
+          <code className={styles.code}>Connecting the DEV Community in the APAC & LATAM regions since 2013</code>
         </p>
 
-        <h3 className={styles.subtitle}>
-        Connect / Share / Learn
-        </h3>
+        <h4 className={styles.subtitle}>
+        Cloud Native Summit / Service Mesh Day / ScaleConf NZ / FullStack Day and more...
+        </h4>
 
         <div className={styles.grid}>
           <Newsletter />
