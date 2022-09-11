@@ -21,9 +21,7 @@ export default function newsletter() {
 
   return (
     <div>
-      <h3 className={styles.subtitle}>
-        Connect / Share / Learn
-      </h3>
+
 
       <p className={styles.descriptiontitle}>
         Please register your interest...
@@ -36,7 +34,7 @@ export default function newsletter() {
           value={email}
           onChange={(e) => setEmail(e.target.value)}
         />
-        <button type="button" className={styles.registerMailchimpButton} disabled={state === "LOADING"} onClick={subscribe}>Subscribe</button>
+        <button type="button" className={styles.registerMailchimpButton} disabled={state === "LOADING"} onClick={subscribe}>Register your Interest</button>
       </div>
 
       {state === "ERROR" && (
@@ -44,7 +42,7 @@ export default function newsletter() {
       )}
 
       {state === "SUCCESS" && (
-        <p className={styles.description}>Thanks! I'll be in touch shortly :) Chris.-</p>
+        <p className={styles.description}>Thanks! I'll be in touch shortly :) Chris Mazur.-</p>
       )}
 
     </div>

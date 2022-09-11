@@ -18,21 +18,21 @@ export default function Home() {
         </h1>
 
         <h2>
-          Building Tech Communities since 2013. 
+          We help Tech Companies to Build and Empower their Communities.
         </h2>
 
         <p className={styles.description}>
           <code className={styles.code}>Connecting the DEV Community in the APAC & LATAM regions</code>
         </p>
 
+        <h3 className={styles.subtitle}>
+        Connect / Share / Learn
+        </h3>
+
         <div className={styles.grid}>
           <Newsletter />
         </div>
         
-        <p>
-        We help Tech Companies to Build and Empower their Communities.
-        </p>
-                
       </main>
 
       <footer className={styles.footer}>      
@@ -41,7 +41,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          @matedotdev
+          @matedotdev / Building Tech Communities since 2013. 
         </a>
         {' '} - {' '}
         <a
