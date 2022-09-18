@@ -18,15 +18,15 @@ export default function Home() {
         </h1>
 
         <h2>
-          We help Tech Companies to Build and Empower their Communities.
+          Building Tech Communities since 2013 from NZ.
         </h2>
 
         <p className={styles.description}>
-          <code className={styles.code}>Connecting the DEV Community in the APAC & LATAM regions since 2013</code>
+          <code className={styles.code}>Connecting the DEV Community in the APAC & LATAM</code>
         </p>
 
         <h4 className={styles.subtitle}>
-        Cloud Native Summit / Service Mesh Day / ScaleConf NZ / FullStack Day and more...
+        Founder Cloud Native Summit / Service Mesh Day / ScaleConf NZ / FullStack Day / PHP Conf Arg & NZ / Meetups and more...
         </h4>
 
         <div className={styles.grid}>
@@ -41,7 +41,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          @matedotdev / Building Tech Communities since 2013 from NZ. 
+          @matedotdev / I help Tech Companies to Build and Empower their Communities. 
         </a>
         {' '} - {' '}
         <a
@@ -49,7 +49,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         Contact
+         Contact Chris
         </a>
       </footer>
     </div>
