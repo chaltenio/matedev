@@ -24,7 +24,7 @@ export default function newsletter() {
 
 
       <p className={styles.descriptiontitle}>
-        Please register your interest...
+         Follow my progress. Join our newsletter to receive monthly updates about tech meetups, conference and special activities. 
       </p>      
 
       <div className={styles.registerMailchimp}>
