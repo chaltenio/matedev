@@ -24,7 +24,7 @@ export default function newsletter() {
 
 
       <p className={styles.descriptiontitle}>
-         Follow my progress. Join our newsletter to receive monthly updates about tech meetups, conference and special activities. 
+         Follow our progress. Join our newsletter to receive monthly updates about tech meetups, conferences and special activities. 
       </p>      
 
       <div className={styles.registerMailchimp}>
@@ -34,7 +34,7 @@ export default function newsletter() {
           value={email}
           onChange={(e) => setEmail(e.target.value)}
         />
-        <button type="button" className={styles.registerMailchimpButton} disabled={state === "LOADING"} onClick={subscribe}>Submit</button>
+        <button type="button" className={styles.registerMailchimpButton} disabled={state === "LOADING"} onClick={subscribe}>Join</button>
       </div>
 
       {state === "ERROR" && (
