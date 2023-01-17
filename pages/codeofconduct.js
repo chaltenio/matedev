@@ -55,4 +55,4 @@ function Chris() {
   )
 }
 
-export default CodeOfConduct
+export default codeofconduct
