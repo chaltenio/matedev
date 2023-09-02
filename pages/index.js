@@ -22,11 +22,11 @@ export default function Home() {
         </h2>
 
         <p className={styles.description}>
-          <code className={styles.code}>Connecting the DEV Community in the APAC & LATAM</code>
+          <code className={styles.code}>Empowering Individuals Through Community</code>
         </p>
 
         <h4 className={styles.subtitle}>
-        Founder Cloud Native Summit / Service Mesh Day / ScaleConf NZ / FullStack Day / PHP Conf Arg & NZ / Meetups and more...
+        Founder Cloud Native Summit / Service Mesh Day / ScaleConf NZ / FullStack Day / PHP Conf Arg & NZ / coonecta.dev / Tech Meetups and more...
         </h4>
 
         <div className={styles.grid}>
