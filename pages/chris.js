@@ -29,7 +29,7 @@ function Chris() {
             <p><img src="/svgs/twitter.svg" alt="@chmazur" className={styles.logo} />{" "}@chmazur</p>
           </a>
 
-          <a href="https://www.linkedin.com/in/cloud-native" className={styles.cardSocial}>          
+          <a href="https://www.linkedin.com/in/matedev" className={styles.cardSocial}>          
             <h2>LinkedIn &rarr;</h2>
             <p><img src="/svgs/linkedin.svg" alt="cloud-native" className={styles.logo} />{" "}cloud-native</p>
           </a>
@@ -52,8 +52,8 @@ function Chris() {
             <p>Join connecta.dev!</p>
           </a>
 
-          <a href="https://www.chess.com/member/chmazur" className={styles.cardSocial}>
-            <h2>Chess.com &rarr;</h2>
+          <a href="https://lichess.org/@/chaltenio" className={styles.cardSocial}>
+            <h2>lichess.org &rarr;</h2>
             <p>Let's play?!</p>
           </a>  
         </div>        
@@ -66,7 +66,7 @@ function Chris() {
             <p>
             🧉{' '}Co-Founder Argentina PHP User Group  <br />
             🧉{' '}Co-Founder & Co-Organiser PHP Conference Argentina (Buenos Aires - <a href="https://twitter.com/phpconferencear" target="_blank">@phpconferencear</a>)<br />
-            🧉{' '}Founder & Organiser PHP Conference New Zealand (Wellington - <a href="https://php.org.nz" target="_blank">php.org.nz</a>)<br />
+            🧉{' '}Founder & Organiser PHP Conference New Zealand (Wellington - <a href="https://twitter.com/phpconfnz" target="_blank">@phpconfnz</a>)<br />
             🧉{' '}Founder & Organiser ScaleConf New Zealand (Wellington - <a href="https://twitter.com/sconfnz" target="_blank">@sconfnz</a>)<br />
             🧉{' '}Founder & Organiser Cloud Native Summit (Wellington - {" "}<a href="https://cloudnativesummit.co/nz" target="_blank">cloudnativesummit.co)</a><br />
             🧉{' '}Founder & Organiser Service Mesh Day (San Francisco & Online - {" "}<a href="https://servicemeshday.com" target="_blank">servicemeshday.com</a>)<br />
