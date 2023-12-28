@@ -26,7 +26,7 @@ export default function Home() {
         </p>
 
         <h4 className={styles.subtitle}>
-        Founder Cloud Native Summit / Service Mesh Day / ScaleConf NZ / FullStack Day / PHP Conf Arg & NZ / coonecta.dev / Tech Meetups and more...
+        Founder Cloud Native Summit / Service Mesh Day / ScaleConf NZ / Full Stack Day / PHP Conf Argentina & NZ / connecta.dev / Tech Meetups and more...
         </h4>
 
         <div className={styles.grid}>
@@ -37,11 +37,11 @@ export default function Home() {
 
       <footer className={styles.footer}>      
         <a
-          href="https://twitter.com/matedotdev"
+          href="https://twitter.com/chmazur"
           target="_blank"
           rel="noopener noreferrer"
         >
-          @matedotdev / I help Tech Companies to Build and Empower their Communities. 
+          @chmazur / I help Tech Companies to Build and Empower their Communities. 
         </a>
         {' '} - {' '}
         <a
