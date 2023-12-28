@@ -20,7 +20,7 @@ function Chris() {
         </h1>
         
         <p className={styles.description}>
-        Software & DevOps Engineer + Consultancy & Community Strategy Advice as a Service | From #Patagonia.{" "}🇦🇷 🇳🇿 🧉 ♜
+        Software & DevOps Engineer + CNCF Ambassador + Director of Community Development @ Tetrate.io | From #Patagonia.{" "}🇦🇷 🇳🇿 🧉 ♜
         </p>
 
         <div className={styles.grid}>
@@ -31,7 +31,7 @@ function Chris() {
 
           <a href="https://www.linkedin.com/in/matedev" className={styles.cardSocial}>          
             <h2>LinkedIn &rarr;</h2>
-            <p><img src="/svgs/linkedin.svg" alt="cloud-native" className={styles.logo} />{" "}cloud-native</p>
+            <p><img src="/svgs/linkedin.svg" alt="matedev" className={styles.logo} />{" "}matedev</p>
           </a>
 
           <a href="https://github.com/chaltenio" className={styles.cardSocial}>
@@ -70,7 +70,7 @@ function Chris() {
             🧉{' '}Founder & Organiser ScaleConf New Zealand (Wellington - <a href="https://twitter.com/sconfnz" target="_blank">@sconfnz</a>)<br />
             🧉{' '}Founder & Organiser Cloud Native Summit (Wellington - {" "}<a href="https://cloudnativesummit.co/nz" target="_blank">cloudnativesummit.co)</a><br />
             🧉{' '}Founder & Organiser Service Mesh Day (San Francisco & Online - {" "}<a href="https://servicemeshday.com" target="_blank">servicemeshday.com</a>)<br />
-            🧉{' '}Founder & Organiser FullStack Day (Auckland & Online - {" "}<a href="https://fullstackday.com" target="_blank">fullstackday.com</a>)<br />
+            🧉{' '}Founder & Organiser Full Stack Day (Auckland & Online - {" "}<a href="https://fullstackday.com" target="_blank">fullstackday.com</a>)<br />
             🧉{' '}Founder & Co-Organiser <a href="https://www.meetup.com/Full-Stack-Dev-New-Zealand/" target="_blank">Full Stack Dev New Zealand - Meetup</a><br />
             🧉{' '}Founder & Organiser <a href="https://www.meetup.com/Wellington-Web-Dev/" target="_blank">Web Dev Meetup Wellington</a><br />
             🧉{' '}Organiser <a href="https://www.meetup.com/aucklandweb/" target="_blank">Web Dev Meetup Auckland</a><br />
@@ -88,11 +88,11 @@ function Chris() {
 
       <footer className={styles.footer}>
         <a
-          href="https://twitter.com/matedotdev"
+          href="https://twitter.com/chmazur"
           target="_blank"
           rel="noopener noreferrer"
         >
-          @matedotdev
+          @chmazur
         </a>
       </footer>
     </div>
