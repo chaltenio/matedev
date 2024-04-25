@@ -29,7 +29,7 @@ function Chris() {
             <p><img src="/svgs/twitter.svg" alt="@chmazur" className={styles.logo} />{" "}@chmazur</p>
           </a>
 
-          <a href="https://www.linkedin.com/in/matedev" className={styles.cardSocial}>          
+          <a href="https://www.linkedin.com/in/cloud-native" className={styles.cardSocial}>          
             <h2>LinkedIn &rarr;</h2>
             <p><img src="/svgs/linkedin.svg" alt="matedev" className={styles.logo} />{" "}matedev</p>
           </a>
@@ -42,11 +42,6 @@ function Chris() {
 
         <div className={styles.grid}>  
 
-          <a href="#" className={styles.cardSocial}>
-            <h2>Blog?</h2>
-            <p>Coming soon!</p>
-          </a>
-
           <a href="https://discord.gg/xT9cMSy" className={styles.cardSocial}>
             <h2>Discord &rarr;</h2>
             <p>Join connecta.dev!</p>
@@ -56,6 +51,12 @@ function Chris() {
             <h2>lichess.org &rarr;</h2>
             <p>Let's play?!</p>
           </a>  
+
+          <a href="#" className={styles.cardSocial}>
+            <h2>WeChat</h2>
+            <p>matedev</p>
+          </a>
+
         </div>        
 
         <div className={styles.grid}> 

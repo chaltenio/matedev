@@ -18,7 +18,7 @@ export default function Home() {
         </h1>
 
         <h2>
-          Building Tech Communities since 2013 from NZ.
+          Building spaces for the Latam & ANZ software community since 2012.
         </h2>
 
         <p className={styles.description}>
@@ -26,7 +26,7 @@ export default function Home() {
         </p>
 
         <h4 className={styles.subtitle}>
-        Founder Cloud Native Summit / Service Mesh Day / ScaleConf NZ / Full Stack Day / PHP Conf Argentina & NZ / connecta.dev / Tech Meetups and more...
+        Founder Cloud Native Summit / Service Mesh Day / ScaleConf NZ / FullStack Day / PHP Conf Argentina & NZ / connecta.dev / Tech Meetups and more...
         </h4>
 
         <div className={styles.grid}>
