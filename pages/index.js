@@ -22,7 +22,7 @@ export default function Home() {
         </h2>
 
         <p className={styles.description}>
-          <code className={styles.code}>Empowering developers through community projects, by creating inclusive spaces for connection, sharing knowledge and collaboration.</code>
+          <code className={styles.code}>Empowering developers through community projects, by creating inclusive spaces for connection, knowledge sharing and collaboration.</code>
         </p>
 
         <h4 className={styles.subtitle}>
