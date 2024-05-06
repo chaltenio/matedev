@@ -41,7 +41,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          I help Global Tech Companies to Build and Empower their Communities / Auckland / San Francisco / Buenos Aires /
+          I help Global Tech Companies to Build and Empower their Tech Communities / Auckland / San Francisco / Buenos Aires /
         </a>
         {' '} - {' '}
         <a
