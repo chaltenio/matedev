@@ -18,11 +18,11 @@ export default function Home() {
         </h1>
 
         <h2>
-          Building spaces for the Latam & ANZ software community since 2012.
+          Serving the LatAm & ANZ Software Communities since 2010
         </h2>
 
         <p className={styles.description}>
-          <code className={styles.code}>Empowering Individuals Through Community</code>
+          <code className={styles.code}>Empowering people through community projects by creating spaces for connection, sharing knowledge and collaboration between developers.</code>
         </p>
 
         <h4 className={styles.subtitle}>
@@ -37,11 +37,11 @@ export default function Home() {
 
       <footer className={styles.footer}>      
         <a
-          href="https://twitter.com/chmazur"
+          href="https://www.linkedin.com/in/cloud-native/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          @chmazur / I help Tech Companies to Build and Empower their Communities. 
+          I help Tech Companies to Build and Empower their Communities / Auckland / San Francisco / Buenos Aires /
         </a>
         {' '} - {' '}
         <a
