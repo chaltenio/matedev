@@ -22,7 +22,7 @@ export default function Home() {
         </h2>
 
         <p className={styles.description}>
-          <code className={styles.code}>Empowering people through community projects by creating spaces for connection, sharing knowledge and collaboration between developers.</code>
+          <code className={styles.code}>Empowering developers through community projects, by creating inclusive spaces for connection, sharing knowledge and collaboration.</code>
         </p>
 
         <h4 className={styles.subtitle}>
@@ -41,7 +41,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          I help Tech Companies to Build and Empower their Communities / Auckland / San Francisco / Buenos Aires /
+          I help Global Tech Companies to Build and Empower their Communities / Auckland / San Francisco / Buenos Aires /
         </a>
         {' '} - {' '}
         <a
