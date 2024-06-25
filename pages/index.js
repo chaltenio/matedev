@@ -2,13 +2,11 @@ import Head from 'next/head'
 import Image from 'next/image'
 import Newsletter from "../components/newsletter";
 import styles from '../styles/Home.module.css'
-import { GoogleTagManager } from '@next/third-parties/google'
 
 export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        return <GoogleAnalytics gaId="G-82583WQEKP" />
         <title>mate.dev</title>
         <meta name="description" content="mate.dev community" />
         <link rel="icon" href="/favicon.ico" />
