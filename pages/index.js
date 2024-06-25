@@ -7,6 +7,16 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-82583WQEKP"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-82583WQEKP');
+      </script>
+
         <title>mate.dev</title>
         <meta name="description" content="mate.dev community" />
         <link rel="icon" href="/favicon.ico" />
