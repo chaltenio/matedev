@@ -1,15 +1,11 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
-import { GoogleAnalytics } from '@next/third-parties/google'
 
 function Chris() {
   return (
     <div className={styles.container}>
       <Head>
-
-        return <GoogleAnalytics gaId="G-82583WQEKP" />
-
         <title>Chris Mazur - mate.dev</title>
         <meta name="description" content="mate.dev community" />
         <link rel="icon" href="/favicon.ico" />
