@@ -65,6 +65,7 @@ function Chris() {
           
           <div>            
             <p>
+            🧉{' '}CNCF Ambassador <a href="https://www.credly.com/badges/cdae9c0d-3651-4c14-b9d8-c752726cc586/linked_in_profile" target="_blank"> (Issued by The Linux Foundation)</a><br />  
             🧉{' '}Co-Chair KubeDay Australia 2024 - Melbourne<br />
             🧉{' '}Co-Founder Argentina PHP User Group  <br />
             🧉{' '}Co-Founder & Co-Organiser PHP Conference Argentina (Buenos Aires - <a href="https://twitter.com/phpconferencear" target="_blank">@phpconferencear</a>)<br />
