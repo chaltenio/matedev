@@ -61,10 +61,11 @@ function Chris() {
 
         <div className={styles.grid}> 
           <div>
-          <h2>Connecting the Software Development Community in the APAC & LATAM regions since 2013:{' '} </h2>
+          <h2>Connecting the Software Development Community in the APAC & LATAM regions since 2010:{' '} </h2>
           
-          <div>
+          <div>            
             <p>
+            🧉{' '}Co-Chair KubeDay Australia 2024 - Melbourne<br />
             🧉{' '}Co-Founder Argentina PHP User Group  <br />
             🧉{' '}Co-Founder & Co-Organiser PHP Conference Argentina (Buenos Aires - <a href="https://twitter.com/phpconferencear" target="_blank">@phpconferencear</a>)<br />
             🧉{' '}Founder & Organiser PHP Conference New Zealand (Wellington - <a href="https://twitter.com/phpconfnz" target="_blank">@phpconfnz</a>)<br />
