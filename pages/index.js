@@ -18,15 +18,17 @@ export default function Home() {
         </h1>
 
         <h2>
-          Serving the LatAm & ANZ Software Communities since 2010
+          Building communities, one Mate 🧉 at a time!
         </h2>
 
         <p className={styles.description}>
-          <code className={styles.code}>Empowering developers through community projects, by creating inclusive spaces for connection, knowledge sharing and collaboration.</code>
+          <code className={styles.code}>
+          Empowering LatAm & ANZ software communities since 2010 by fostering inclusive spaces for connection, knowledge sharing, and collaboration through impactful community projects.
+          </code>
         </p>
 
         <h4 className={styles.subtitle}>
-        Founder Cloud Native Summit / Service Mesh Day / ScaleConf NZ / FullStack Day / PHP Conf Argentina & NZ / connecta.dev / Tech Meetups and more...
+        Founder Cloud Native Summit / Service Mesh Day / ScaleConf NZ / Full-Stack Day / PHP Conf Argentina & NZ / connecta.dev / Tech Meetups and more...
         </h4>
 
         <div className={styles.grid}>
