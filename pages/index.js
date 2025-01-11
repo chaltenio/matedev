@@ -23,18 +23,15 @@ export default function Home() {
 
         <p className={styles.description}>
           <code className={styles.code}>
-          Empowering LatAm & ANZ software communities since 2010 by fostering inclusive spaces for connection, knowledge sharing, and collaboration through impactful community projects.
+          Empowering LatAm & ANZ software communities since 2010 by fostering inclusive spaces for connection, knowledge sharing, and collaboration.
           </code>
         </p>
-
-        <h4 className={styles.subtitle}>
-        Founder Cloud Native Summit / Service Mesh Day / ScaleConf NZ / Full-Stack Day / PHP Conf Argentina & NZ / connecta.dev / Tech Meetups and more...
-        </h4>
 
         <div className={styles.grid}>
           <Newsletter />
         </div>
         
+        <p>Founder Cloud Native Summit / Service Mesh Day / ScaleConf NZ / Full-Stack Day / PHP Conf Argentina & NZ / connecta.dev / Tech Meetups and more...</p>
       </main>
 
       <footer className={styles.footer}>      
