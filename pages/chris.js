@@ -19,43 +19,49 @@ function Chris() {
         </span>          
         </h1>
         
+        <h2>
+          Building communities, one Mate 🧉 at a time!
+        </h2>
+
         <p className={styles.description}>
         Software & DevOps Engineer + CNCF Ambassador + Director of Community Development @ Tetrate.io | From #Patagonia.{" "}🇦🇷 🇳🇿 🧉 ♜
         </p>
 
         <div className={styles.grid}>
-          <a href="https://twitter.com/chmazur" className={styles.cardSocial}>
-            <h2>Twitter &rarr;</h2>
-            <p><img src="/svgs/twitter.svg" alt="@chmazur" className={styles.logo} />{" "}@chmazur</p>
+
+          <a href="https://mate.dev" className={styles.cardSocial}>
+            <h2>mate.dev &larr;</h2>
+            <p><img src="/svgs/external-link.svg" alt="mate.dev" className={styles.logo} />{" "}mate.dev</p>
           </a>
 
           <a href="https://www.linkedin.com/in/cloud-native" className={styles.cardSocial}>          
             <h2>LinkedIn &rarr;</h2>
-            <p><img src="/svgs/linkedin.svg" alt="matedev" className={styles.logo} />{" "}matedev</p>
+            <p><img src="/svgs/linkedin.svg" alt="matedev" className={styles.logo} />{" "}Chris on LinkedIn</p>
           </a>
 
           <a href="https://github.com/chaltenio" className={styles.cardSocial}>
             <h2>Github &rarr;</h2>
             <p><img src="/svgs/github.svg" alt="chaltenio" className={styles.logo} />{" "}chaltenio</p>
           </a>
+
         </div>
 
-        <div className={styles.grid}>  
+        <div className={styles.grid}> 
 
           <a href="https://discord.gg/xT9cMSy" className={styles.cardSocial}>
             <h2>Discord &rarr;</h2>
             <p>Join connecta.dev!</p>
           </a>
 
+          <a href="https://twitter.com/chmazur" className={styles.cardSocial}>
+            <h2>Twitter &rarr;</h2>
+            <p><img src="/svgs/twitter.svg" alt="@chmazur" className={styles.logo} />{" "}@chmazur</p>
+          </a>
+
           <a href="https://lichess.org/@/chaltenio" className={styles.cardSocial}>
             <h2>lichess.org &rarr;</h2>
             <p>Let's play?!</p>
           </a>  
-
-          <a href="#" className={styles.cardSocial}>
-            <h2>WeChat</h2>
-            <p>matedev</p>
-          </a>
 
         </div>        
 
