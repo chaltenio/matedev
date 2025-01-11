@@ -86,7 +86,7 @@ function Chris() {
             <p>🧉{' '}Founder & Organiser <a href="https://www.meetup.com/Cloud-Native-Auckland/" target="_blank">Cloud Native & Platform Engineering Auckland</a> (Meetup)</p>
             <p>🧉{' '}Founder & Organiser <a href="https://connecta.dev" target="_blank">Connecta.DEV (online community)</a></p>
             <p>🧉{' '}Co-Organiser <a href="https://www.meetup.com/golang-argentina/" target="_blank">Golang Argentina</a> (Meetup)</p>
-            <p>🧉{' '}Founder & Organiser (Buenos Aires & Online - {" "}<a href="https://www.meetup.com/full-stack-engineering-buenos-aires" target="_blank">Full-Stack Buenos Aires</a>)</p>
+            <p>🧉{' '}Founder & Organiser <a href="https://www.meetup.com/full-stack-engineering-buenos-aires" target="_blank">Full-Stack Buenos Aires</a> (Buenos Aires & Online))</p>
           </div>
 
           </div>
