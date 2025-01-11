@@ -67,21 +67,21 @@ function Chris() {
             <p>
             🧉{' '}CNCF Ambassador <a href="https://www.credly.com/badges/dccc1596-15c1-474f-8d12-626c5b3b2534" target="_blank"> (Issued by The Linux Foundation)</a><br />  
             🧉{' '}Co-Chair KubeDay Australia 2024 - Melbourne<a href="https://www.credly.com/badges/f96c2033-ae20-4676-bbed-3921476dd7ec" target="_blank"> (Issued by The Linux Foundation)</a><br />
-            🧉{' '}Co-Founder Argentina PHP User Group<a href="https://x.com/grupophp" target="_blank"> @grupophp</a><br />
+            🧉{' '}Co-Founder Argentina PHP User Group (Argentina <a href="https://x.com/grupophp" target="_blank"> @grupophp</a>)<br />
             🧉{' '}Co-Founder & Co-Organiser PHP Conference Argentina (Buenos Aires - <a href="https://twitter.com/phpconferencear" target="_blank">@phpconferencear</a>)<br />
             🧉{' '}Founder & Organiser PHP Conference New Zealand (Wellington - <a href="https://twitter.com/phpconfnz" target="_blank">@phpconfnz</a>)<br />
             🧉{' '}Founder & Organiser ScaleConf New Zealand (Wellington - <a href="https://twitter.com/sconfnz" target="_blank">@sconfnz</a>)<br />
             🧉{' '}Founder & Organiser Cloud Native Summit (Wellington - {" "}<a href="https://cloudnativesummit.co/nz" target="_blank">cloudnativesummit.co)</a><br />
             🧉{' '}Founder & Organiser Service Mesh Day (San Francisco & Online - {" "}<a href="https://servicemeshday.com" target="_blank">servicemeshday.com</a>)<br />
             🧉{' '}Founder & Organiser Full-Stack Day (Auckland & Online - {" "}<a href="https://fullstackday.com" target="_blank">fullstackday.com</a>)<br />
-            🧉{' '}Founder & Co-Organiser <a href="https://www.meetup.com/Full-Stack-Dev-New-Zealand/" target="_blank">Full Stack Dev New Zealand - Meetup</a><br />
+            🧉{' '}Founder & Co-Organiser <a href="https://www.meetup.com/Full-Stack-Dev-New-Zealand/" target="_blank">Full-Stack Dev New Zealand</a> (Meetup)<br />
             🧉{' '}Founder & Organiser <a href="https://www.meetup.com/Wellington-Web-Dev/" target="_blank">Web Dev Meetup Wellington</a><br />
-            🧉{' '}Organiser <a href="https://www.meetup.com/aucklandweb/" target="_blank">Web Dev Meetup Auckland</a><br />
+            🧉{' '}Organiser <a href="https://www.meetup.com/aucklandweb/" target="_blank">Web Dev Meetup Auckland</a>(Meetup)<br />
             🧉{' '}Founder & Co-Organiser <a href="https://www.meetup.com/Wellington-DevOps-Group/" target="_blank">Devops Meetup Wellington</a><br />
-            🧉{' '}Founder & Organiser <a href="https://www.meetup.com/Cloud-Native-Auckland/" target="_blank">Cloud Native & Platform Engineering Auckland</a> <br />
+            🧉{' '}Founder & Organiser <a href="https://www.meetup.com/Cloud-Native-Auckland/" target="_blank">Cloud Native & Platform Engineering Auckland</a> (Meetup)<br />
             🧉{' '}Founder & Organiser <a href="https://connecta.dev" target="_blank">Connecta.DEV (online community)</a><br />
-            🧉{' '}Co-Organiser <a href="https://www.meetup.com/golang-argentina/" target="_blank">Golang Argentina</a><br />
-            🧉{' '}Founder & Organiser(Buenos Aires & Online - {" "}<a href="https://www.meetup.com/full-stack-engineering-buenos-aires" target="_blank">Full-Stack Buenos Aires</a>)<br />
+            🧉{' '}Co-Organiser <a href="https://www.meetup.com/golang-argentina/" target="_blank">Golang Argentina</a>(Meetup)<br />
+            🧉{' '}Founder & Organiser (Buenos Aires & Online - {" "}<a href="https://www.meetup.com/full-stack-engineering-buenos-aires" target="_blank">Full-Stack Buenos Aires</a>)<br />
             </p>  
           </div>
 
