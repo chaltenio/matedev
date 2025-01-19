@@ -40,7 +40,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          I help Global Tech Companies to Build and Empower their Tech Communities / Auckland / San Francisco / Buenos Aires /
+        Auckland / San Francisco / Buenos Aires
         </a>
         {' '} - {' '}
         <a
