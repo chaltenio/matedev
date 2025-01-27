@@ -31,7 +31,7 @@ export default function Home() {
           <Newsletter />
         </div>
         
-        <p>Founder Cloud Native Summit / Service Mesh Day / ScaleConf NZ / Full-Stack Day / PHP Conf Argentina & NZ / connecta.dev / Tech Meetups and more...</p>
+        <p>Founder: Cloud Native Summit / Service Mesh Day / ScaleConf NZ / Full-Stack Day / PHP Conf Argentina & NZ / connecta.dev / Tech Meetups and more...</p>
       </main>
 
       <footer className={styles.footer}>      
@@ -40,7 +40,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-        Auckland / San Francisco / Buenos Aires
+        Auckland / Melbourne / San Francisco / Buenos Aires
         </a>
         {' '} - {' '}
         <a
