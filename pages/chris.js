@@ -72,6 +72,7 @@ function Chris() {
           <div>            
             <p>🧉{' '}CNCF Ambassador <a href="https://www.credly.com/badges/dccc1596-15c1-474f-8d12-626c5b3b2534" target="_blank"> (Issued by The Linux Foundation)</a></p>
             <p>🧉{' '}Co-Chair KubeDay Australia 2024 - Melbourne<a href="https://www.credly.com/badges/f96c2033-ae20-4676-bbed-3921476dd7ec" target="_blank"> (Issued by The Linux Foundation)</a></p>
+            <p>🧉{' '}Organizer - 2024 Cloud Native Community Group - Auckland<a href="https://www.credly.com/badges/f8063808-d957-4f84-8e64-f3482b944aa2" target="_blank"> (Issued by The Linux Foundation)</a></p>
             <p>🧉{' '}Co-Founder Argentina PHP User Group (Argentina <a href="https://x.com/grupophp" target="_blank"> @grupophp</a>)</p>
             <p>🧉{' '}Co-Founder & Co-Organiser PHP Conference Argentina (Buenos Aires - <a href="https://twitter.com/phpconferencear" target="_blank">@phpconferencear</a>)</p>
             <p>🧉{' '}Founder & Organiser PHP Conference New Zealand (Wellington - <a href="https://twitter.com/phpconfnz" target="_blank">@phpconfnz</a>)</p>
@@ -96,11 +97,11 @@ function Chris() {
 
       <footer className={styles.footer}>
         <a
-          href="https://twitter.com/chmazur"
+          href="https://www.linkedin.com/in/matedev/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          @chmazur
+          Chris Mazur - Auckland / Melbourne / San Francisco / Buenos Aires
         </a>
       </footer>
     </div>
