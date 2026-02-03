@@ -21,17 +21,22 @@ export default function Home() {
           Building communities, one Mate 🧉 at a time!
         </h2>
 
-        <p className={styles.description}>
-          <code className={styles.code}>
-          Empowering LatAm & ANZ software communities since 2010 by fostering inclusive spaces for connection, knowledge sharing, and collaboration.
-          </code>
-        </p>
-
         <div className={styles.grid}>
           <Newsletter />
-        </div>
-        
+        </div>        
         <p>Founder: Cloud Native Summit / Service Mesh Day / ScaleConf NZ / Full-Stack Day / PHP Conf Argentina & NZ / connecta.dev / Tech Meetups and more...</p>
+        <br />
+        <br />
+        <br />
+        <br />                
+        <a
+          href="https://buymeacoffee.com/matedev"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+         buymeacoffee.com/matedev
+        </a>
+
       </main>
 
       <footer className={styles.footer}>      

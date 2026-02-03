@@ -24,7 +24,7 @@ function Chris() {
         </h2>
 
         <p className={styles.description}>
-        Software & DevOps Engineer + CNCF Ambassador + Director of Community Development @ Tetrate.io | From #Patagonia.{" "}🇦🇷 🇳🇿 🧉 ♜
+        Software & DevOps Engineer + CNCF Ambassador | From #Patagonia.{" "}🇦🇷 🇳🇿 🧉 ♜
         </p>
 
         <div className={styles.grid}>
@@ -58,8 +58,8 @@ function Chris() {
             <p><img src="/svgs/twitter.svg" alt="@chmazur" className={styles.logo} />{" "}@chmazur</p>
           </a>
 
-          <a href="https://lichess.org/@/chaltenio" className={styles.cardSocial}>
-            <h2>lichess.org &rarr;</h2>
+          <a href="https://www.chess.com/member/chmazur" className={styles.cardSocial}>
+            <h2>chess.com &rarr;</h2>
             <p>Let's play?!</p>
           </a>  
 
@@ -70,6 +70,8 @@ function Chris() {
           <h2>Connecting the Software Development Community in the APAC & LATAM regions since 2010:{' '} </h2>
           
           <div>            
+            <p>🧉{' '}Co-Founder & Event Community Lead - Agentics Day: MCP + Agents 2026<a href="https://www.credly.com/earner/earned/badge/35ac4d87-345b-48f5-8693-56fcccecd0bf" target="_blank"> (Issued by The Linux Foundation)</a></p>
+            <p>🧉{' '}EnvoyCon NA 2025 Program Committee Member<a href="https://www.credly.com/earner/earned/badge/708ca679-ab62-49f1-b6f5-4ec53a39c766" target="_blank"> (Issued by The Linux Foundation)</a></p>
             <p>🧉{' '}CNCF Ambassador <a href="https://www.credly.com/badges/dccc1596-15c1-474f-8d12-626c5b3b2534" target="_blank"> (Issued by The Linux Foundation)</a></p>
             <p>🧉{' '}Co-Chair KubeDay Australia 2024 - Melbourne<a href="https://www.credly.com/badges/f96c2033-ae20-4676-bbed-3921476dd7ec" target="_blank"> (Issued by The Linux Foundation)</a></p>
             <p>🧉{' '}Organizer - 2024 Cloud Native Community Group - Auckland<a href="https://www.credly.com/badges/f8063808-d957-4f84-8e64-f3482b944aa2" target="_blank"> (Issued by The Linux Foundation)</a></p>
