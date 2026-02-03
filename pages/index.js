@@ -34,7 +34,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         buymeacoffee.com/matedev
+         Support my project: buymeacoffee.com/matedev
         </a>
 
       </main>
