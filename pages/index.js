@@ -25,18 +25,16 @@ export default function Home() {
           <Newsletter />
         </div>        
         <p>Founder: Cloud Native Summit / Service Mesh Day / ScaleConf NZ / Full-Stack Day / PHP Conf Argentina & NZ / connecta.dev / Tech Meetups and more...</p>
-        <br />
-        <br />
-        <br />
-        <br />                
-        <a
-          href="https://buymeacoffee.com/matedev"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-         Support my project: buymeacoffee.com/matedev
-        </a>
 
+        <h3>               
+          <a
+            href="https://buymeacoffee.com/matedev"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+          Support my project: ☕ buymeacoffee.com/matedev
+          </a>
+        </h3>
       </main>
 
       <footer className={styles.footer}>      
