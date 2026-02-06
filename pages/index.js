@@ -18,7 +18,7 @@ export default function Home() {
         </h1>
 
         <h2>
-          Building communities, one Mate 🧉 at a time!
+          Building communities, one Mate 🧉 ( or a coffee ☕ ;) at a time!
         </h2>
 
         <div className={styles.grid}>
